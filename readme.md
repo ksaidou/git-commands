@@ -32,3 +32,8 @@ avec l'option -b, celle va creer la branche si elle n'existe pas
 
 ## git pull
 Permet de recuperer les modifications distantes
+
+## git rebase
+- permet de recuperer les modifications de la branche mere
+- les modifications de la branche mère sont placées en dessous de la branche courante
+- les modifications de la branche courante sont placées au dessus de la branche mère
